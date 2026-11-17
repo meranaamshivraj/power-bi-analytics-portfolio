@@ -5,6 +5,9 @@ This project focuses on analyzing e-commerce sales transactions using Microsoft 
 
 The project uses transaction-level retail data containing invoice details, product information, quantities, prices, customer IDs, and country information.
 
+Dataset is Above 25 mb and its too large for upload on this platform here the link...
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?resource=download
+
 ## Tools & Technologies
 - Microsoft Power BI
 - Power Query
